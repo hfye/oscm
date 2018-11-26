@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry exported="true" kind="lib" path="javalib/bcprov-jdk15-160.jar" sourcepath="resources/bc-jdk15-160-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="javalib/bcprov-jdk15on-160.jar" sourcepath="resources/bc-jdk15on-160-src.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
