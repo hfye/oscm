@@ -15,7 +15,7 @@
   
   <taskdef name="copykey" classname="org.oscm.build.ant.CopyKeyTask" />
 
-  <taskdef name="sign" classname="org.oscm.build.ant.SignTask" />
+  <!--<taskdef name="sign" classname="org.oscm.build.ant.SignTask" />-->
   
   <taskdef name="propertiescompare" classname="org.oscm.build.ant.PropertiesCompareTask" />
 

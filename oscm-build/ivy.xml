@@ -107,7 +107,7 @@
     <dependency org="xerces" name="xercesImpl" rev="2.11.0" transitive="false"/>
     <dependency org="xml-apis" name="xml-apis" rev="1.4.01" transitive="false"/>
     <dependency org="backport-util-concurrent" name="backport-util-concurrent" rev="3.1" transitive="false"/>
-    <dependency org="org.bouncycastle" name="bcprov-jdk15" rev="1.45" transitive="false"/>
+    <dependency org="org.bouncycastle" name="bcprov-jdk15on" rev="1.60" transitive="false"/>
     <dependency org="org.dbunit" name="dbunit" rev="2.4.7" transitive="false"/>
     <dependency org="org.eclipse.birt.runtime.3_7_1" name="Tidy" rev="1" transitive="false"/>
     <dependency org="org.apache.axis" name="axis-ant" rev="1.4" transitive="false"/>
